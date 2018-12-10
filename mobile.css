@@ -1,0 +1,62 @@
+body{
+    margin-top: 0px;
+    margin-left: 0px;
+    margin-right: 0px;
+}
+#header{
+    background-color: #25D366;
+    height: 80pt;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    position: fixed;
+    width: 100%;
+    vertical-align:top;
+}
+#text{
+
+}
+#info{
+    width: 100%;
+    background-color: #DCF8C6;
+}
+#wrap{
+    margin-top: 20px;
+    margin-left: 10px;
+}
+#title{
+    font-size: 25px;
+    padding: 0px;
+    margin-top: 0px;
+    padding-top: 30px;
+    margin-left: 21%;
+    font-family: 'Inconsolata', monospace;
+}
+#print{
+    padding-top: 10px;
+    width: 280px;
+    margin-left: 10%;
+    height: 550px;
+}
+#about{
+    text-align: center;
+    font-family: 'Inconsolata', monospace;
+    align-items: center;
+    margin-left: 10px;
+    width: 100%;
+    font-size: 30px;
+}
+#download{
+    background-color: #25D366;
+    width: 260px;
+    font-size: 25px;
+    height: 50px;
+    border-radius: 300px;
+    border-style: none;
+    margin-left: 15%;
+    transition: 0.5s;
+    box-shadow: 0 8px 10px 0 rgba(0,0,0,0.12),
+    0 2px 4px 0 rgba(0,0,0,0.08);
+}
+#download:hover{
+    background-color: #075E54;
+    font-size: 25px;
+}

@@ -60,3 +60,22 @@ body{
     background-color: #075E54;
     font-size: 25px;
 }
+#print{
+    border-style: none;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    width: 360px;
+    height: 700px;
+
+}
+#image{
+    width: 360px;
+    height: 700px;
+    margin-left: 5px;
+    background-color: transparent;
+ }
+ #text2{
+    font-size: 30px;
+    align-content: center;
+    font-family: 'Inconsolata', monospace;
+    margin-left: 30px;
+}
